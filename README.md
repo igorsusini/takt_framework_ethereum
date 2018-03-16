@@ -5,3 +5,7 @@ It was a creation of José Finocchio, and it is being developed by Igor Susini A
 
 ## How Takt is organized
 
+"Takt" is composed by the smart contracts described bellow:
+
+1) Micro Contracts: represents a work package. Every work package consumes input deliverables and produces output deliverables.
+2) Deliverables: categorized into input's and output's. 
